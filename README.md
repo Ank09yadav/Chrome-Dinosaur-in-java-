@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to my repo...
 
 ## Folder Structure
 
@@ -20,5 +20,13 @@ java app
 
 ## Make sure your machine have installed jdk8.1 + 
 ## Dependency Management
+##step to play the game 
+you may play this with the space...
+![Screenshot 2025-05-16 230506](https://github.com/user-attachments/assets/90efa7aa-2e79-4324-add2-43a86bf60c12)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+![Screenshot 2025-05-16 230354](https://github.com/user-attachments/assets/ece7d129-8a46-4d22-ae3e-6b373c5dea6c)
+
+
+![Screenshot 2025-05-16 230427](https://github.com/user-attachments/assets/3a4798e0-4301-4142-8a1e-8e0d55a0f2c2)
